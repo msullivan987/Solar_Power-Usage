@@ -1,0 +1,7 @@
+# openweathermap.org api
+
+# sunshine hours by City by Year/Month
+
+#example: monthly aggregation
+https://history.openweathermap.org/data/2.5/aggregated/month?month=2&lat=35&lon=139&appid={API key}
+# sunshine_hours = the number of sunny hours in the selected month
