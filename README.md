@@ -2,6 +2,7 @@
 Project 1 for UCSD Data Science Bootcamp.
 
 Here, we're looking at solar power usage across the US, identifying areas or highest usage, under-utilization and potential growth
+
 ![Solar Panels](./readme-images/solar-generation.jpg)
 
 ## Project Objective
@@ -25,13 +26,21 @@ Why ask these questions?
 ## Main Findings
 
 - Solar power is one of the least utilized energy sources in the US
+
 ![Power Generation by Energy Source 2012-2019](./readme-images/POWERGENBYSOURCE.png)
+
 - Coal makes up almost half of all energy production (1990-2019)
+
 ![Total National Energy Production 1990-2019 (MWh)](./readme-images/national_energy_production.png)
+
 - California produces A LOT of solar power
+
 ![2009-2019 Total State Solar Output](./readme-images/2009_2019_Total_Solar_Output_by_State.png)
+
 - Energy prices in California are definitely increasing, as is solar power
+
 ![California Solar Generation vs. Average Energy Price](./readme-images/california_solar_v_price.png)
+
 - Other very sunny states are not producing at the same rate as California
 
 ## Questions and Data
@@ -39,7 +48,9 @@ Why ask these questions?
 - How much energy is created by solar compared to other energy sources?
 - What states could show potential for solar energy production?
     - Needed to understand potential sunshine hours for states and cities across the US
+    
 ![City Sunshine Map](./readme-images/citySunshine-heat-USA-(2).png)
+
 - How much solar power is the US producing by state ? 
     - Last year
     - The past decade
